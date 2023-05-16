@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/237173ed-08c6-4769-8cc3-34e3f7893c24/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SolanaSocial",
+    "appService.deploySubpath": "."
+}
